@@ -1,0 +1,41 @@
+# Word and Office temporary/lock files
+~$*.docx
+~$*.doc
+*.tmp
+
+# Scratch notes and drafts
+Here are the most severe, niche cyb.txt
+*.txt
+
+# Intermediate generated reports and PDFs
+made by gemini full.pdf
+made by qwen full report.md
+made by qwen full report.pdf
+AI_Threats_Defense_Strategy.pdf
+ai_adoption_by_sector.pdf
+ai_applications_guide.pdf
+ai_cyber_threats_india.pdf
+ai_research_paper_outline.pdf
+ai_threat_matrix_indian_enterprises.pdf
+ai_treaty_analysis.pdf
+ai_vs_traditional_methods.pdf
+international_viewpoints_ai.pdf
+
+# Screenshots and media artifacts
+WhatsApp Image *.jpeg
+*.jpeg
+*.jpg
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Operating system & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

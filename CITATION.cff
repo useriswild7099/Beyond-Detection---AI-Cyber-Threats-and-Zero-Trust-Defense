@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this research paper, architectural models, or data in your research, please cite it as below."
+title: "Beyond Detection: Architecting Zero Trust Defenses Against AI-Enabled Cyber Threats in the Indian Enterprise Ecosystem"
+authors:
+  - family-names: "Tigga"
+    given-names: "Prince"
+    affiliation: "Department of Electronics and Communication Engineering, Tezpur University"
+  - family-names: "Sinha"
+    given-names: "Aishika"
+    affiliation: "LLM, Cotton College"
+date-released: 2026-09-13
+version: "1.0.0"
+repository-code: "https://github.com/useriswild7099/Beyond-Detection---AI-Cyber-Threats-and-Zero-Trust-Defense"
+license: "CC-BY-4.0"
+keywords:
+  - "Artificial Intelligence"
+  - "Cybersecurity"
+  - "Zero Trust Architecture"
+  - "Synthetic Media"
+  - "Deepfakes"
+  - "Indian Cyber Law"
+  - "Information Technology Act 2000"
+  - "DPDP Act 2023"
+  - "SEBI Regulations"
+  - "Digital Arrest Scams"
+  - "C2PA Provenance"
+  - "Liveness Detection Injection"
+abstract: >-
+  The democratization of generative artificial intelligence between 2025 and 2026 has expanded
+  the enterprise attack surface beyond the network perimeter into statistical weights, inference
+  pipelines, and biometric trust models. This research monograph synthesizes threat intelligence,
+  empirical jurisdictional vulnerabilities in India (such as digital arrest extortion and Video-KYC
+  injection attacks), and regulatory vacuums across the IT Act 2000 and DPDP Act 2023. It develops
+  an adapted 4-layer Trusted Digital Exchange (TDE) framework underpinned by NIST SP 800-207 Zero Trust
+  Architecture, unifying C2PA cryptographic provenance, multimodal detection, explainable dynamic trust
+  scoring, and institutional continuous governance.
