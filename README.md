@@ -12,12 +12,12 @@
 
 ## Authors & Institutional Affiliations
 
+- **Aishika Sinha**  
+  *Master of Laws, Cotton College*  
+
 - **Prince Tigga**  
   *Department of Electronics and Communication Engineering, Tezpur University*  
-  [tiggaprince403@gmail.com](mailto:tiggaprince403@gmail.com) | [GitHub Profile](https://github.com/useriswild7099)
-
-- **Aishika Sinha**  
-  *LLM, Cotton College*  
+  [tiggaprince403@gmail.com](mailto:tiggaprince403@gmail.com) | [GitHub Profile](https://github.com/useriswild7099)  
 
 **Publication Date:** September 2026  
 **Document Status:** Final Official Research Monograph  
@@ -279,19 +279,19 @@ Beyond-Detection---AI-Cyber-Threats-and-Zero-Trust-Defense/
 
 ### BibTeX
 ```bibtex
-@article{tigga_sinha_2026_beyond_detection,
+@article{sinha_tigga_2026_beyond_detection,
   title        = {Beyond Detection: Architecting Zero Trust Defenses Against AI-Enabled Cyber Threats in the Indian Enterprise Ecosystem},
-  author       = {Tigga, Prince and Sinha, Aishika},
+  author       = {Sinha, Aishika and Tigga, Prince},
   journal      = {Research Monograph on Cybersecurity and Cyber Law},
   year         = {2026},
   month        = {September},
   howpublished = {\url{https://github.com/useriswild7099/Beyond-Detection---AI-Cyber-Threats-and-Zero-Trust-Defense}},
-  note         = {Department of Electronics and Communication Engineering, Tezpur University \& LLM, Cotton College}
+  note         = {Master of Laws, Cotton College \& Department of Electronics and Communication Engineering, Tezpur University}
 }
 ```
 
 ### APA
-> Tigga, P., & Sinha, A. (2026). *Beyond Detection: Architecting Zero Trust Defenses Against AI-Enabled Cyber Threats in the Indian Enterprise Ecosystem*. Tezpur University & Cotton College. https://github.com/useriswild7099/Beyond-Detection---AI-Cyber-Threats-and-Zero-Trust-Defense
+> Sinha, A., & Tigga, P. (2026). *Beyond Detection: Architecting Zero Trust Defenses Against AI-Enabled Cyber Threats in the Indian Enterprise Ecosystem*. Cotton College & Tezpur University. https://github.com/useriswild7099/Beyond-Detection---AI-Cyber-Threats-and-Zero-Trust-Defense
 
 ---
 

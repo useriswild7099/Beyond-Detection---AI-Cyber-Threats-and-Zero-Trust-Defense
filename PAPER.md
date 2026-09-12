@@ -3,8 +3,8 @@
 ### A Research Synthesis on Threat Intelligence, Regulatory Gaps, and Defensive Architecture
 
 **Authors:**
+- **Aishika Sinha** – *Master of Laws, Cotton College*
 - **Prince Tigga** – *Department of Electronics and Communication Engineering, Tezpur University*
-- **Aishika Sinha** – *LLM, Cotton College*
 
 **Publication Date:** September 2026  
 **Status:** Final Research Paper  
